@@ -1,3 +1,5 @@
 Ucime rabota so granki
 
 Naredna nedela pocnuvame so nov modul.
+
+Commit od VSCode
